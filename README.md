@@ -5,15 +5,10 @@ git commit -m "mensaje"     ->  copia de seguridad (primero mandar los repositor
 git add .                   ->  iniciar seguimiento de todos los archivos (mandar área temporal)
 git push -u origin master   ->  subir repositorios a la nube (primera vez)
 git push                    ->  subir repositorios a la nube
-
-
-
+git clone                   ->  clonar reositorios
 
 git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
 
-git push -u origin master
-
-git clone: clonar reositorios
 
 -----
 

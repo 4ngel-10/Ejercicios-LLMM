@@ -3,7 +3,7 @@ git status -s               ->  para saber que archivos tienen seguimiento
 git add (nombre archivo)    ->  iniciar seguimiento (mandar área temporal)
 git commit -m "mensaje"     ->  copia de seguridad (primero mandar los repositorios al area temoporal)
 git add .                   ->  iniciar seguimiento de todos los archivos (mandar área temporal)
-git push -u orgin master    ->  subir repositorios a la nube
+git push -u origin master    ->  subir repositorios a la nube
 
 
 

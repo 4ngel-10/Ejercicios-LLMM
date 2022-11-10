@@ -1,0 +1,49 @@
+*{
+    margin: 2px;
+}
+ 
+div#backgreen{
+background-color: green;
+}
+ 
+h1{
+    margin: auto;
+    margin-left: 10px;
+    border: 1px solid white;
+    margin-right: 270px;
+    text-align: center;
+    color: white;
+}
+ 
+h2{
+    margin: auto;
+    margin-left: 10px;
+    margin-top: 15px;
+    border: 1px solid yellow;
+    margin-right: 270px;
+    text-align: center;
+    color: yellow;
+}
+ 
+.rosa{
+    background-color: rgb(252, 220, 172);
+    margin-bottom: 16px;
+}
+ 
+.verde{
+    background-color: rgb(132, 247, 189);
+    margin-bottom: 17px;
+    margin-top: 16px;
+}
+ 
+#backblack{
+    background-color: black;
+}
+ 
+#backpink{
+    background-color: rgb(231, 143, 227);
+}
+ 
+span{
+    color: red;
+}

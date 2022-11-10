@@ -1,0 +1,38 @@
+body{
+    background-color: grey;
+}
+
+
+.menu{
+    color: black;
+    background-color: white;
+    margin: 32px;
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.titulo{
+    background-color: green;
+    width: auto;
+    text-align: center;
+    padding: 1px;
+    padding-left: 15px;
+    height: 220px;
+}
+
+h1{
+    color: white;
+    padding: 5px;
+    border: 2px solid white;
+    text-align: center;
+    margin-right: 14px;
+}
+
+h2{
+    color: yellow;
+
+}
+
